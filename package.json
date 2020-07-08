@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.1",
-    "enquirer": "^1.0.3",
+    "enquirer": "^2.0.0",
     "markdown2confluence-cws": "^2.0.4",
     "minimist": "^1.2.2",
     "prompt-confirm": "^1.2.0",
