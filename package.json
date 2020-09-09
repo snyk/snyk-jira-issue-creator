@@ -22,7 +22,7 @@
     "markdown2confluence-cws": "^2.0.4",
     "minimist": "^1.2.3",
     "prompt-confirm": "^1.2.0",
-    "request": "^2.87.0",
+    "request": "^2.88.2",
     "request-promise-native": "^1.0.8",
     "uuid-validate": "0.0.3",
     "snyk": "^1.360.0"
