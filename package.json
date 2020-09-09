@@ -20,7 +20,7 @@
     "chalk": "^2.4.1",
     "enquirer": "^2.0.0",
     "markdown2confluence-cws": "^2.0.4",
-    "minimist": "^1.2.3",
+    "minimist": "^1.2.5",
     "prompt-confirm": "^1.2.0",
     "request": "^2.87.0",
     "request-promise-native": "^1.0.8",
